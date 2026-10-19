@@ -1,0 +1,49 @@
+B3D files with Wheel/AddWheel spaces: 1
+  [B3D] GAZELLE: 4 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] GAZELLE_1C: 4 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] OFFROAD: 4 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] PICKUP: 4 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] PATROL: 4 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] CAYMAN: 4 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] BMW_M5: 4 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] BMW_M5police: 4 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] BUS: 4 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] MARERA: 4 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] MEGAN: 4 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] MINI: 4 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] OKA: 4 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] VAN: 4 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] AVENSIS: 4 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] VOLGA: 4 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] FIAT: 4 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] SOBOL: 4 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] SCANIA: 4 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] KAMAZ: 6 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] RENAULT: 6 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] ZIL: 6 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] MERCEDES: 6 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] VOLVO: 4 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] DAF: 4 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] STORM: 4 WheelSpace, 4 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] RENAULT: 4 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] FREIGHTLINER: 4 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] SCANIA: 4 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] MACK: 6 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] KENWORTH: 6 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] KAMAZ: 6 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] ZIL: 4 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] PETERBILT: 6 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] DAF: 4 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] MERCEDES: 4 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] VOLVO: 4 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] STORM: 4 WheelSpace, 4 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] INTERNATIONAL: 6 WheelSpace, 0 AddWheelSpace in TRUCKS.B3D; AddColPnts=4
+  [B3D] SEMITRAILER_MODULE: 2 WheelSpace, 4 AddWheelSpace in TRUCKS.B3D; AddColPnts=2
+  [B3D] SEMITRAILER_STORM: 2 WheelSpace, 2 AddWheelSpace in TRUCKS.B3D; AddColPnts=2
+  [B3D] SEMITRAILER_TANK: 2 WheelSpace, 4 AddWheelSpace in TRUCKS.B3D; AddColPnts=2
+  [B3D] SEMITRAILER_PLATFORM: 2 WheelSpace, 4 AddWheelSpace in TRUCKS.B3D; AddColPnts=2
+Created: G:\d2\Dev\_tech_tools\_test\tch_to_tech\truck2.tech
+Vehicles: 43
+Physical records: 29
+Category ends: 17 26 39 43 43 43
+Note: unknown/derived TECH fields are initialized conservatively; test the generated file in-game before replacing originals.
